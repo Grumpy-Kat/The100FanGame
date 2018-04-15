@@ -1,0 +1,7 @@
+Clarke Griffin=255,0,0
+Bellamy Blake=0,255,0
+Octavia Blake=0,0,255
+Wells Jaha=255,255,0
+Finn Collins=0,255,255
+Jasper Jordan=255,0,255
+Monty Green=0,0,0

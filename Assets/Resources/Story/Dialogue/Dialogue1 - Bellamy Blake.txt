@@ -1,0 +1,24 @@
+Bellamy Blake;|Bellamy Blake&Player&>=&5|You're the girl who had the common sense in the dropship, whatever your name is.;0,1.12,0
+Bellamy Blake;|Bellamy Blake&Player&<&5|What do you want, whatever your name is?;0,1.12,0
+Player;Stay Quiet: :line,4:character,Player|Bellamy Blake|-5;"I said what I thought was right. Think what you want. I don't care.":I said what I thought was right. Think what you want. I don't care.:line,9:character,Player|Bellamy Blake|5;Introduce Yourself:I'm $Name$.:line,14:character,Player|Bellamy Blake|5;true
+
+Bellamy Blake;|Bellamy Blake&Player&>=&-5|Fine, the silent treatment.;0,1.12,0
+Bellamy Blake;|Bellamy Blake&Player&=&-5|Still, quiet? What, don't have a voice?;0,1.12,0
+Bellamy Blake;|Bellamy Blake&Player&<=&-5|Now you're quiet?;0,1.12,0
+Bellamy Blake;Well, that means you can probably listen. If you want to keep listening to me, you can help me lead this place. So, what do you say, how would you like to be my second-in-command.;0,1.12,0
+Player;Yes:Sure.:line,18:character,Player|Bellamy Blake|10;No:No thanks.:line,22:character,Player|Bellamy Blake|-10;true
+
+Bellamy Blake;Your attitude is extremely irritating. Actually, you sound like my sister. I'm kinda starting to like you. I'm Bellamy.;0,1.12,0
+Bellamy Blake;I could use some help running this place, want to join?;0,1.12,0
+Player;Yes:Fine, I've got nothing better to do.:line,18:character,Player|Bellamy Blake|10;No:Not happening.:line,22:character,Player|Bellamy Blake|-10;true
+
+Bellamy Blake;Okay, fine, nice to meet you. I'm Bellamy;0,1.12,0
+Bellamy Blake;You seem nice enough and I could use some help running this place. So, what do you say, would you like to be on top?;0,1.12,0
+Player;Yes:Why not?:line,18:character,Player|Bellamy Blake|10;No:I'm good, but thanks.:line,22:character,Player|Bellamy Blake|-10;true
+
+Bellamy Blake;Great. Nice to know I have a new partner.;0,1.12,0
+Player;Scene: :scene,Map1;false
+
+Bellamy Blake;|Bellamy Blake&Player&>=&-5|Fine, but watch your back. You don't want to be on the wrong side of this.;0,1.12,0
+Bellamy Blake;|Bellamy Blake&Player&<&-5|You're making enemies with the wrong person. Watch your back.;0,1.12,0
+Player;Scene: :scene,Map1;false

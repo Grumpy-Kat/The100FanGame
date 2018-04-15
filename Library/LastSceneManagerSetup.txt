@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Luda/unity/City Planner/Assets/Scenes/BuildingCreator.unity
+  isLoaded: 1
+  isActive: 1

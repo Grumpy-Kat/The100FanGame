@@ -1,0 +1,41 @@
+Octavia Blake;Hey.;0,1.12,0
+Player;Stay Quiet: :line,3;"Hi, how you liking Earth?":line,30:character,Octavia Blake|Player|5;"So, girl under the floor huh?":line,16:character,Octavia Blake|Player|-5;true
+
+Octavia Blake;Um...;0,1.12,0
+Octavia Blake;Okay, I'm not good at this social thing, so do you hate me or something?;0,1.12,0
+Player;"Yes, I do hate you.":Yes, I do hate you.:line,7:character,Octavia Blake|Player|-10;"No, I'm just quiet. Not the best at making friends.":No, I'm just quiet. Not the best at making friends.:line,13;character,Octavia Blake|Player|5;true
+
+Octavia Blake;You're a bitch.;0,1.12,0
+Player;"I was joking. It's called sarcasm.":I was joking. It's called sarcasm:line,10;"And you're the girl under the floor.":And you're the girl under the floor.:line,16:character,Octavia Blake|Player|-10;true
+
+Octavia Blake;Oh, well, that was a shitty joke. Goodbye.<She begins to walk away.>;0,1.12,0
+Player;Let her walk away: :scene,Map1;Grab her arm and apologize:Look, I'm really sorry. I'm just not the best at making friends and I didn't know a good thing to say:line,13:character,Octavia Blake|Player|5;true
+
+Octavia Blake;I'm not amazing at this friend thing either.
+Octavia Blake;I'm Octavia.
+Octavia Blake;So let's give a try, huh? What do say, wanna be friends?
+Player;Yes:Sure, I'd love to. I'm $Name$.:character,Octavia Blake|Player|15:scene,Map1;No:No thanks, I'll pass.:line,8:character,Octavia Blake|Player|-5;true
+
+Octavia Blake;And do you have a problem with that?<She takes a step closer, her first balled up like she's ready to fight you.>;0,1.12,0
+Player;Yes:Yeah, I do. You're an illegal child, who was using up our oxgyen and probably the reason we're even down here.:line,19:character,Octavia Blake|Player|-15:character,Bellamy Blake|Player|-5;No:No, I'm just stating facts. I like being honest. Sorry if it offended you:line,29:character,Octavia Blake|Player|5;true
+
+Octavia Blake:What the hell is wrong with you? You better watch your back because now you've made an enemy of out of me and my brother, who you don't want to mess with.<She punches you and storms away.>
+Player;Scene: :scene,Map1;false
+
+Octavia Blake:Oh. It's okay, I'm used to it.;0,1.12,0
+Player;Comfort her:You shouldn't have to get used to it. I didn't mean to insult you, just not the best at this friend thing:line,13:character,Octavia Blake|Player|10;Tell her she's different:It's because people see you and know that you're different:line,27:character,Octavia Blake|Player|-5;true
+
+Octavia Blake:Oh.;0,1,12,0
+Player;In a good way:In the best way possible. And that was probably the worst thing to say. Honesty will kill me and my social life. I'm horrible at this friend thing:line,15:character,Octavia Blake|Player|10;In a bad way:And that wasn't a compliment.:line,19:character,Octavia Blake|Player|-10:Bellamy Blake|Player|-5;true
+
+Octavia Blake:It's good to be free!;0,1.12,0
+Player;Agree:I could not agree more. Fuck that whole damn council for locking me up.:line,33:character,Octavia Blake|Player|10;Disagree:Well, now we get to die down here instead. Fun...:line,36:character,Octavia Blake|Player|-5;true
+
+Octavia Blake:<Laughs.> I like you! I'm Octavia. Wanna be friends?;0,1.12,0
+Player;Yes:Sure, I'd love to. I'm $Name$.:character,Octavia Blake|Player|15:scene,Map1;No:No thanks, I'll pass.:line,8:character,Octavia Blake|Player|-5;true
+
+Octavia Blake;Okay... um, depressing! Would you rather be locked up with that the tyranny of a government and sentenced to death either way?;0,1.12,0
+Player;Yes:Beats dying down here:line,39:character,Octavia Blake|Player|-5;No:Nope, dying down here sounds better. At least I can be drunk and having fun while I do it:line,33Octavia Blake|Player|5;true
+
+Octavia Blake; I get it, you're as spoiled as the chancellor's son and that little blonde princess. Goodbye.<She begins to walk away.>;0,1.12,0
+Player;Let her walk away: :scene,Map1;Grab her arm and apologize:Look, I'm really sorry. I'm just not the best at making friends and I didn't know a good thing to say:line,13:character,Octavia Blake|Player|5;true

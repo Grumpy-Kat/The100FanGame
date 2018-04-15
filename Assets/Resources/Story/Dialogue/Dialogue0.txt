@@ -1,0 +1,29 @@
+Clarke Griffin;Stop. The air could be toxic.;0,1.12,0
+Bellamy Blake;If the air is toxic, we're all dead, anyway.;0,1.12,0
+Player;Stay Quiet: :line,4:character,Clarke Griffin|Bellamy Blake|-5:character,Octavia Blake|Bellamy Blake|10;Agree with Clarke:She's right! It could kill us!:line,17:character,Clarke Griffin|Player|5:character,Bellamy Blake|Player|-5:character,Clarke Griffin|Bellamy Blake|-5;Agree with Bellamy:Don't be so uptight, blondie.:line,24:character,Clarke Griffin|Player|-5:character,Bellamy Blake|Player|5:character,Clarke Griffin|Bellamy Blake|-5;true
+
+Octavia Blake;Bellamy?;0,1.12,0
+Bellamy Blake;My god, look how big big you are.;0,1.12,0
+Octavia Blake;What the hell are you wearing, a guard's uniform?;0,1.12,0
+Bellamy Blake;I borrowed it to get on the drop ship. Someone has got to keep an eye on you.;0,1.12,0
+Clarke Griffin;Where's your wristband?;0,1.12,0
+Octavia Blake;Do you mind? I haven't seen my brother in a year.;0,1.12,0
+Octavia Blake;<People recognize her as the girl under the floor and she tries to attack them.>;0,1.12,0
+Bellamy Blake;Octavia, Octavia, no. Let’s give them something else to remember you by.;0,1.12,0
+Octavia Blake;Yeah? Like what?;0,1.12,0
+Bellamy Blake;Like being the first person on the ground in a hundred years. <He opens the dropship door.>;0,1.12,0
+Octavia Blake;<Steps out. She takes in a breath of fresh air and exhales.>WE'RE BACK, BITCHES!<Everyone cheers and follows her.>;0,1.12,0
+Player;Scene: :scene,Map0;false
+
+Clarke Griffin;See! Don't be an idiot!;0,1.12,0
+Bellamy Blake;So now you're in charge, princess?;0,1.12,0
+Clarke Griffin;I'm just tring to stay alive!;0,1.12,0
+Bellamy Blake;Well, I don't care. And now I get to be the first person on Earth in a century.;0,1.12,0
+Bellamy Blake;<He opens dropship door and walks out. He takes in a breath of fresh air and when he exhales, everyone follows.>;0,1.12,0
+Player;Scene: :scene,Map0;false
+
+Bellamy Blake;Not so high and mighty now, princess?;0,1.12,0
+Clarke Griffin;Fine, but if we all die, that's on you.;0,1.12,0
+Bellamy Blake;Well, I don't care. And now I get to be the first person on Earth in a century.;0,1.12,0
+Bellamy Blake;<He opens dropship door and walks out. He takes in a breath of fresh air and when he exhales, everyone follows.>;0,1.12,0
+Player;Scene: :scene,Map0;false

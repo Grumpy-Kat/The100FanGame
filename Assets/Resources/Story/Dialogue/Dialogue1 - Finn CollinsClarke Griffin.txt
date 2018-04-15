@@ -1,0 +1,52 @@
+Finn Collins;Why so serious, Princess? It’s not like we died in a fiery explosion.;0,1.12,0
+Clarke Griffin;Try telling that to the two guys who tried to follow you out of their seats.;0,1.12,0
+Finn Collins;You don’t like being called Princess, do you, Princess?;0,1.12,0
+Player;Stay Quiet: :line,5:character,Finn Collins|Clarke Griffin|5;Break It Up:Cute... but we have more important matters, like surviving.:line,10:character,Player|Clarke Griffin|-5;Tease Clarke:Yea, princess of Alpha Station. How did the princess get arrested? Overspent on her shopping spree?:line,18:character,Finn Collins|Clarke Griffin|-5:character,Player|Clarke Griffin|-10;Recognize Finn as the Spacewalker:Hey, you're that spacewalker. How about you take me on a spacewalk?:line,26:character,Finn Collins|Clarke Griffin|-5:character,Player|Clarke Griffin|-5:character,Finn Collins|Player|5;true
+
+Clarke Griffin;Do you two see that peak over there?;0,1.12,0
+Finn Collins;Yeah;0,1.12,0
+Clarke Griffin;Mount Weather. There’s a radiation-soaked forest between us and our next meal. They dropped us on the wrong damn mountain.;0,1.12,0
+Player;Stay Quiet: :line,36;"What do we do?":What do we do?:line,42;"When do we leave?":When do we leave?:line,47:character,Player|Clarke Griffin|10;true
+
+Clarke Griffin;|Clarke Griffin&Player&>=&5|$GenderSvHCapital$'s not wrong, spacewalker.;0,1.12,0
+Clarke Griffin;|Clarke Griffin&Player&<&-5|$GenderSvHCapital$'s not wrong, in a very annoying way.;0,1.12,0
+Finn Collins;What are you talking about? We're on Earth! Let's relax for a second?;0,1.12,0
+Clarke Griffin;Do you two see that peak over there?;0,1.12,0
+Finn Collins;Yeah;0,1.12,0
+Clarke Griffin;Mount Weather. There’s a radiation-soaked forest between us and our next meal. They dropped us on the wrong damn mountain.;0,1.12,0
+Player;Stay Quiet: :line,36;"What do we do?":What do we do?:line,42;"When do we leave?":When do we leave?:line,47:character,Finn Collins|Clarke Griffin|-5:character,Player|Clarke Griffin|10:character,Finn Collins|Player|-5;true
+
+Clarke Griffin;|Clarke Griffin&Player&>=&-10|You had no problem agreeing with me before.;0,1.12,0
+Clarke Griffin;|Clarke Griffin&Player&<&-10|Bitch!;0,1.12,0
+Finn Collins;Let's relax. There's no need to fight.;0,1.12,0
+Clarke Griffin;Fine. Do you two see that peak over there?;0,1.12,0
+Finn Collins;Yeah;0,1.12,0
+Clarke Griffin;Mount Weather. There’s a radiation-soaked forest between us and our next meal. They dropped us on the wrong damn mountain.;0,1.12,0
+Player;Stay Quiet: :line,36;"What do we do?":What do we do?:line,42;"When do we leave?":When do we leave?:line,47:character,Finn Collins|Clarke Griffin|-5:character,Player|Clarke Griffin|5:character,Finn Collins|Player|-5;true
+
+Finn Collins;Anytime, beautiful.;0,1.12,0
+Clarke Griffin;Ugh.;0,1.12,0
+Finn Collins;You jealous, princess?;0,1.12,0
+Clarke Griffin;You're digusting.;0,1.12,0
+Finn Collins;What? Don't worry you're good looking, too.;0,1.12,0
+Clarke Griffin;If you want to grow up, do you two see that peak over there?;0,1.12,0
+Finn Collins;Yeah;0,1.12,0
+Clarke Griffin;Mount Weather. There’s a radiation-soaked forest between us and our next meal. They dropped us on the wrong damn mountain.;0,1.12,0
+Player;Stay Quiet: :line,36;"What do we do?":What do we do?:line,42;"When do we leave?":When do we leave?:line,47:character,Finn Collins|Clarke Griffin|-5:character,Player|Clarke Griffin|5;true
+
+Finn Collins;So... any ideas?;0,1.12,0
+Clarke Griffin;We'll figure something out.;0,1.12,0
+Finn Collins;Which is?;0,1.12,0
+Clarke Griffin;I have no idea;0,1.12,0
+Player;Scene: :scene,Map1;false
+
+Clarke Griffin;We'll figure something out.;0,1.12,0
+Finn Collins;Which is?;0,1.12,0
+Clarke Griffin;I have no idea;0,1.12,0
+Player;Scene: :scene,Map1;false
+
+Finn Collins;You want to walk through the radiation-soaked forest? Great idea.;0,1.12,0
+Clarke Griffin;...But it's the best we've got.;0,1.12,0
+Finn Collins;So you're planning to die getting supplies?;0,1.12,0
+Clarke Griffin;Do you have a better idea? No? Then let's go. We'll leave in a few minutes. Check if there is anyone else who wants to come with us.;0,1.12,0
+Player;Scene: :scene,Map1;false
